@@ -1,0 +1,15 @@
+{
+  "status":"success",
+  "data":{
+    "1":{ "genre": "user1", "sold": 300},
+    "2":{ "genre": "user2", "sold": 290},
+    "3":{ "genre": "user3", "sold": 280},
+    "4":{ "genre": "user4", "sold": 270},
+    "5":{ "genre": "user5", "sold": 260},
+    "6":{ "genre": "user6", "sold": 250},
+    "7":{ "genre": "user7", "sold": 240},
+    "8":{ "genre": "user8", "sold": 230},
+    "9":{ "genre": "user9", "sold": 220},
+    "10":{ "genre": "user10", "sold": 210}
+  }
+}

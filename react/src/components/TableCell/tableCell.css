@@ -1,0 +1,67 @@
+.cell {
+    align-items: center;
+    background-color: #cdbfb4;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.18), 0 1px 5px 0 rgba(0, 0, 0, 0.15);
+    display: flex;
+    height: 80px;
+    justify-content: center;
+    width: 80px;
+}
+
+.number {
+    color: #ffffff;
+    font-size: 2rem;
+}
+
+.color-2 {
+    background-color: #f7d23c;
+}
+
+.color-4 {
+    background-color: #f99130;
+}
+
+.color-8 {
+    background-color: #fb1823;
+}
+
+.color-16 {
+    background-color: #fc0097;
+}
+
+.color-32 {
+    background-color: #8c15ef;
+}
+
+.color-64 {
+    background-color: #0092ee;
+}
+
+.color-128 {
+    background-color: #00f461;
+}
+
+.color-256 {
+    background-color: #a5da3f;
+}
+
+.color-512 {
+    background-color: #ac2bcb;
+}
+
+.color-1024 {
+    background-color: #00d7cf;
+}
+
+.color-2048 {
+    background-color: #03A9F4;
+}
+
+.color-4096 {
+    background-color: #FFFF00;
+}
+
+.color-8192 {
+    background-color: #00FFFF;
+}

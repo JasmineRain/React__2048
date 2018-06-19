@@ -1,0 +1,6 @@
+.board {
+    border-collapse: separate;
+    border-spacing: 5px;
+    margin: 100px auto;
+    background-color: #bbaba0;
+}
